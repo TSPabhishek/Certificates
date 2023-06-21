@@ -13,3 +13,5 @@ crash course python - https://github.com/TSPabhishek/Certificates/files/11825273
 Tools for data Science - https://github.com/TSPabhishek/Certificates/files/11825447/Coursera.A68UJBG7VYQW.pdf
 
 C language beginner - https://github.com/TSPabhishek/Certificates/files/11825453/Coursera.BKZSJ82WEX4J.pdf
+
+Machine Learning on Python - https://www.coursera.org/account/accomplishments/verify/MRSR3GUR86YU
