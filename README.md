@@ -7,3 +7,9 @@ advitiya VIT - "https://github.com/TSPabhishek/Certificates/assets/91623079/2f7f
 AICF OFF - "https://github.com/TSPabhishek/Certificates/assets/91623079/be40bce2-dda1-4291-9215-556e62c02008"
 
 IIM - "https://github.com/TSPabhishek/Certificates/assets/91623079/8ee4bfb6-de04-4153-8cab-b7231272534e"
+
+crash course python - https://github.com/TSPabhishek/Certificates/files/11825273/Coursera.3JH2HN53CSZH.pdf
+
+Tools for data Science - https://github.com/TSPabhishek/Certificates/files/11825447/Coursera.A68UJBG7VYQW.pdf
+
+C language beginner - https://github.com/TSPabhishek/Certificates/files/11825453/Coursera.BKZSJ82WEX4J.pdf
