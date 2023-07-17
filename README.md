@@ -15,3 +15,5 @@ Tools for data Science - https://github.com/TSPabhishek/Certificates/files/11825
 C language beginner - https://github.com/TSPabhishek/Certificates/files/11825453/Coursera.BKZSJ82WEX4J.pdf
 
 Machine Learning on Python - https://www.coursera.org/account/accomplishments/verify/MRSR3GUR86YU
+
+IIT Kanpur Chesslers - https://github.com/TSPabhishek/Certificates/files/12072711/IIT.chesslers.pdf
