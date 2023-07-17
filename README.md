@@ -17,3 +17,5 @@ C language beginner - https://github.com/TSPabhishek/Certificates/files/11825453
 Machine Learning on Python - https://www.coursera.org/account/accomplishments/verify/MRSR3GUR86YU
 
 IIT Kanpur Chesslers - https://github.com/TSPabhishek/Certificates/files/12072711/IIT.chesslers.pdf
+
+Codecaze by Coding Ninja - https://github.com/TSPabhishek/Certificates/assets/91623079/b8db62dc-665a-4494-aa41-a83dea0aba79
